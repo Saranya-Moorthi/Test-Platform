@@ -516,7 +516,7 @@ const CodingTestWebsite = () => {
                 </div>
                 <div className="flex items-center gap-2 text-sm text-gray-600 bg-gradient-to-r from-yellow-50 to-orange-50 px-3 py-2 rounded-lg">
                   <Trophy className="w-4 h-4 text-yellow-600" />
-                  <span className="font-medium text-yellow-800">Premium Problems</span>
+                  <span className="font-medium text-yellow-800">Pro Problems</span>
                 </div>
               </div>
             </div>
